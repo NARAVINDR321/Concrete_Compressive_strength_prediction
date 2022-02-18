@@ -1,0 +1,75 @@
+1) Data information
+----------------------------------------------------------------------------------------------------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1030 entries, 0 to 1029
+Data columns (total 9 columns):
+ #   Column              Non-Null Count  Dtype
+---  ------              --------------  -----
+ 0   Cement              1030 non-null   float64
+ 1   Blast Furnace Slag  1030 non-null   float64
+ 2   Fly Ash             1030 non-null   float64
+ 3   Water               1030 non-null   float64
+ 4   Superplasticizer    1030 non-null   float64
+ 5   Coarse Aggregate    1030 non-null   float64
+ 6   Fine Aggregate      1030 non-null   float64
+ 7   Age                 1030 non-null   int64
+ 8   Strength            1030 non-null   float64
+dtypes: float64(8), int64(1)
+memory usage: 72.5 KB
+
+
+
+2) Detailed description of continuous data
+----------------------------------------------------------------------------------------------------
+
+            Cement	Blast Furnace Fly Ash	Water	  Superplasticizer	Coarse    Fine        	Age	      Strength
+count	1030.000000	1030.000000	1030.000000	1030.000000	1030.000000	1030.000000	1030.000000	1030.000000	1030.000000
+mean	281.167864	73.895825	54.188350	181.567282	6.204660	972.918932	773.580485	45.662136	35.817961
+std	    104.506364	86.279342	63.997004	21.354219	5.973841	77.753954	80.175980	63.169912	16.705742
+min	    102.000000	0.000000	0.000000	121.800000	0.000000	801.000000	594.000000	1.000000	2.330000
+25%	    192.375000	0.000000	0.000000	164.900000	0.000000	932.000000	730.950000	7.000000	23.710000
+50%	    272.900000	22.000000	0.000000	185.000000	6.400000	968.000000	779.500000	28.000000	34.445000
+75%	    350.000000	142.950000	118.300000	192.000000	10.200000	1029.400000	824.000000	56.000000	46.135000
+max	    540.000000	359.400000	200.100000	247.000000	32.200000	1145.000000	992.600000	365.000000	82.600000
+
+
+
+
+3)Features having missing values
+----------------------------------------------------------------------------------------------------
+Cement                0
+Blast Furnace Slag    0
+Fly Ash               0
+Water                 0
+Superplasticizer      0
+Coarse Aggregate      0
+Fine Aggregate        0
+Age                   0
+Strength              0
+dtype: int64
+
+4)Final Model scores:
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+1.KNN R2: 0.71
+
+2.Linear Regression R2: 0.60
+
+3.Ridge Regression R2: 0.60
+
+4.Random Forest R2: 0.88
+
+5.SVR RBF R2: 0.62
+
+6.Linear SVR R2: 0.58
+
+7.Decision Tree R2: 0.84
+
+8.Adaboost R2: 0.78
+
+9.Gradient Boosting R2: 0.86
+
+10.Neural Network R2: 0.87
+
+11.XGBRegressor R2: 0.89

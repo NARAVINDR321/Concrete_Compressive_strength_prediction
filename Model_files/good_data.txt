@@ -1,0 +1,17 @@
+Data is Getting loaded...  concrete Data.csv
+
+Independent Variables:
+
+
+cement,
+blast_furnace_slag,
+fly_ash,
+water,
+superplasticizer,
+coarse_aggregate,
+fine_aggregate ,
+age
+
+Dependent Variable:
+
+concrete_compressive_strength

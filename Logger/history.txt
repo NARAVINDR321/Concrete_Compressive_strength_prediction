@@ -1,0 +1,26 @@
+Concrete Compressive Strength Prediction system
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+step 1: learnt Basic Requirements of Project
+
+step 2: Build Design Architecture
+
+step 3: Classes,Modules and other Basic Coding
+
+step 4: Detailed Project Report (DPR)
+
+step 5: Low Level Design (LLD)
+
+step 6: Wireframe document
+
+step 7: Data Cleaning
+
+step 8: Testing the Code
+
+step 9: Model Building
+
+step 10: Model deployment
+
+step 11: cloud deployment Heroku
+

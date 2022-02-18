@@ -7,7 +7,7 @@ I solved this problem using Data science and Machine learning technology, develo
 `Data source:-` https://www.kaggle.com/elikplim/concrete-compressive-strength-data-set
 
 
-Tech Stack
+## Tech Stack
 
 Client: HTML, CSS, JavaScript
 
@@ -40,8 +40,8 @@ URL:- https://docs.google.com/presentation/d/1Cbs3P7TwuWQWI5LfzuWS9CX8WdCQu9FD/e
 ## Wireframe document
 URL:- https://drive.google.com/file/d/1-lHj9yiepwDLlmlgZErEBI3UwNDhwXE8/view?usp=sharing
 
-## Demo video
-URL:- 
+## Heroku link
+URL:- https://concretestrengthprediction.herokuapp.com/
 
   
 ## References

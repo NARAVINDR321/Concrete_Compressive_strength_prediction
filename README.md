@@ -50,6 +50,6 @@ URL:- https://concretestrengthprediction.herokuapp.com/
  - [HTML, CSS tutorials ](https://www.w3schools.com/)
 ## Author
 
-- Nambakkam Aravind Rakesh [LinkedIn](https://www.linkedin.com/in/nambakkam-aravind-rakesh/)
+- Aravind Rakesh
 
   
